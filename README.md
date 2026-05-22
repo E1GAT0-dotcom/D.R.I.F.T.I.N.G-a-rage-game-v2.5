@@ -1,5 +1,5 @@
 # D.R.I.F.T.I.N.G-a-rage-game-v2.5
-Quick Note: I didn't create this game; I'm working with the original creator (See Notes and credits). This repository will not be updated again until the game's full release. Whatever you do, do NOT report bugs here; they will NOT be seen/fixed.
+Quick Note: I didn't create this game; I'm working with the original creator (See Notes and credits). This repository will not be updated again until the game's full release. Whatever you do, do NOT report bugs here; they will NOT be seen/fixed. Most of the below is an edited version of the description in the scratch project.
 
 Instructions
   WASD to move.
